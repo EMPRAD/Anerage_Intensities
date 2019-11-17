@@ -1,1 +1,1 @@
-# Anerage_Intensities
+# Average_Intensities
